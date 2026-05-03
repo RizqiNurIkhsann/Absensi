@@ -1,0 +1,20 @@
+# Ignore backups and archives
+New folder/
+*.zip
+*.rar
+*.tar.gz
+
+# IDEs
+.idea/
+.vscode/
+
+# Ignore flutter build at root just in case
+build/
+.dart_tool/
+
+# Python
+venv/
+__pycache__/
+
+# Mac
+.DS_Store
